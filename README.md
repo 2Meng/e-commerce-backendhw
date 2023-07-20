@@ -27,3 +27,7 @@ Open the terminal from the root folder. Then, run npm install to make sure you h
 Now, open Insomnia REST client and put http://localhost:3001/ into the search bar. If you try a route that doesn't have an endpoint, the server will return 'Wrong Route!' First, try a GET route like http://localhost:3001/api/categories. This will return JSON data for all the categories. Try the other routes too! If you want to POST or PUT, make sure it is the correct format. To DELETE, you only need the ID of the item you are trying to delete on the particular route.
 
 Video walkthrough: 
+
+
+https://github.com/2Meng/e-commerce-backendhw/assets/91503750/0beb09c4-b3aa-4ccb-940e-9bed4e5fe554
+
